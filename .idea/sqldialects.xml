@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/src/test/java/com/cydeo/jdbctests/day01/P01_JDBCIntro.java" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/src/test/java/com/cydeo/jdbctests/day01/P02_FlexibleNavigation.java" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/src/test/java/com/cydeo/jdbctests/day01/P03_MetaData.java" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/src/test/resources/Queries/Agengers/Practice.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/src/test/resources/Queries/WednesdayReview/Morning.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/src/test/resources/Queries/day01/distinct.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/src/test/resources/Queries/day01/order_by.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/src/test/resources/Queries/day01/where.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/src/test/resources/Queries/day02/aggregate.functions.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/src/test/resources/Queries/day02/aliases_string_manipulation.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/src/test/resources/Queries/day02/groupBy.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/src/test/resources/Queries/day02/like.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/src/test/resources/Queries/day02/views.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/src/test/resources/Queries/day03/ddl_dml.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/src/test/resources/Queries/day03/review .sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/src/test/resources/Queries/day03/rownum.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/src/test/resources/Queries/day03/subquery.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/src/test/resources/Queries/day03/test.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/src/test/resources/Queries/day04/customer_address.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/src/test/resources/Queries/day04/joinExercise.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/src/test/resources/Queries/day04/review.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/src/test/resources/Queries/day05/developers_testers.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/src/test/resources/Queries/day05/selfJoin.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/src/test/resources/Queries/day06/jank.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/src/test/resources/Queries/homework/Practice2.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/src/test/resources/Queries/homework/Practice3.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/src/test/resources/Queries/jdbs/library.sql" dialect="MySQL" />
+  </component>
+</project>
